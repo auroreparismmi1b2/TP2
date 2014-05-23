@@ -1,12 +1,12 @@
 #container
 {
 	margin: 0 30px;
-	background: #fff;
+	background: #F7FFF7;
 }
 
 #header
 {
-	background: #ccc;
+	background: #97EF98;
 	padding: 20px;
 }
 
@@ -16,7 +16,7 @@
 {
 	float: left;
 	width: 100%;
-	background: #333;
+	background: #DDEF6B;
 }
 
 #navigation ul
@@ -38,7 +38,7 @@
 	padding: 5px 10px;
 	color: #fff;
 	text-decoration: none;
-	border-right: 1px solid #fff;
+	border-right: 2px solid #fff;
 }
 
 #navigation li a:hover { background: #383; }
@@ -57,12 +57,12 @@
 	background-image: linear-gradient(left, #d6e1ff, #dbffe7);
 	-webkit-background-clip: padding-box;
 	background-clip: padding-box;
-	opacity: 0.83;
+	opacity: 0.95;
 }
 
 #edito h2
 {
-	color: #000;
+	color: #152187;
 	font-size: 160%;
 	margin: 0 0 .5em;
 }
@@ -82,7 +82,7 @@
 	background-image: linear-gradient(left, #d6e1ff, #dbffe7);
 	-webkit-background-clip: padding-box;
 	background-clip: padding-box;
-	opacity: 0.83;
+	opacity: 0.90;
 }
 
 #footer
